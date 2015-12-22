@@ -1,5 +1,5 @@
 {
-  "name": "Gemtoo/HelloWorld",
+  "name": "Gemtoo/module-helloworld",
   "description": "Test module for Magento 2",
   "type": "magento2-module",
   "extra": {
